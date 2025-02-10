@@ -1,4 +1,4 @@
-package com.ics.config;
+package com.ics.auth.config;
 
 import java.util.Arrays;
 
