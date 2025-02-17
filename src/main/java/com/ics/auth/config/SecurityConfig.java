@@ -21,7 +21,7 @@ import com.ics.auth.filter.ZooFilter;
 @Configuration
 @EnableWebSecurity
 @EnableMethodSecurity(prePostEnabled = true)
-public class SecurityConfig {
+public class SecurityConfig  {
 
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
